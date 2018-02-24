@@ -1,5 +1,11 @@
 # WebApp书城整站开发 (完成中……)
 
+## ✏️ 项目初始化
+'''$ npm install'''
+'''$ node app.js'''
+
+![N|Solid](http://m.qpic.cn/psb?/V14DPIsG3ADUGY/XkpQnu5YKP5Wa9iofwhjChouD8bmD0HdkwYAvgOnhR4!/b/dGcBAAAAAAAA&bo=iAM7AgAAAAADJ7A!&rf=viewer_4)
+
 
 [WebApp阅读器](https://chasen8.github.io/bookRack/)
 
